@@ -3,8 +3,7 @@
 import json
 
 graph = []
-names = {
-}
+names = {}
 path = []
 structure = []
 
